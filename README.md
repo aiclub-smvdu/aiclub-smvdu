@@ -21,10 +21,10 @@ Are you passionate about AI and ML? Here’s how you can contribute:
 4. **Attend Events**: Stay tuned for upcoming workshops, hackathons, and guest speaker sessions.
 
 ## **📢 Contact Us**
-- **Website**: [www.aiclubsmvdu.com](https://smvdu.ac.in/ai-club/)
+- **Website**: [www.smvdu.ac.in/ai-club/](https://smvdu.ac.in/ai-club/)
 - **Email**: [aiclub@smvdu.ac.in](mailto:aiclub@smvdu.ac.in)
-- **Follow us on LinkedIn**: [AI Club SMVDU](https://linkedin.com/in/aiclub)
-- **Follow us on Instagram**: [AI Club SMVDU](https://www.instagram.com/aiclub_smvdu?igsh=MXd6emt3YnZrMnd0ag==)
+- **Follow us on LinkedIn**: [AI Club SMVDU LinkedIn](https://linkedin.com/in/aiclub)
+- **Follow us on Instagram**: [AI Club SMVDU Instagram](https://www.instagram.com/aiclub_smvdu?igsh=MXd6emt3YnZrMnd0ag==)
   
 ## **💡 Let's Innovate Together!**
 Whether you're a beginner or an experienced AI enthusiast, there's something for everyone. Dive in, contribute, and let's push the boundaries of AI innovation!
