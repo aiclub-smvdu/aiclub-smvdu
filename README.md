@@ -23,7 +23,7 @@ Are you passionate about AI and ML? Here’s how you can contribute:
 ## **📢 Contact Us**
 - **Website**: [www.smvdu.ac.in/ai-club/](https://smvdu.ac.in/ai-club/)
 - **Email**: [aiclub@smvdu.ac.in](mailto:aiclub@smvdu.ac.in)
-- **Follow us on LinkedIn**: [AI Club SMVDU LinkedIn](https://linkedin.com/in/aiclub)
+- **Follow us on LinkedIn**: [AI Club SMVDU LinkedIn](https://www.linkedin.com/company/ai-club-smvdu/)
 - **Follow us on Instagram**: [AI Club SMVDU Instagram](https://www.instagram.com/aiclub_smvdu?igsh=MXd6emt3YnZrMnd0ag==)
   
 ## **💡 Let's Innovate Together!**
